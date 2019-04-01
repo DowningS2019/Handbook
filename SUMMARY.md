@@ -93,7 +93,7 @@
     * [Distribution Records](warehouse-and-distribution/standard-operating-procedures/distribution-records.md)
     * [Inventory Control](warehouse-and-distribution/standard-operating-procedures/inventory-control.md)
     * [Material Handling](warehouse-and-distribution/standard-operating-procedures/material-handling.md)
-    * [Material Storage & Preservation](warehouse-and-distribution/standard-operating-procedures/material-storage-and-preservation.md)
+    * [Material Handling, Storage, Packaging & Preservation](warehouse-and-distribution/standard-operating-procedures/material-storage-and-preservation.md)
     * [Picking/Packing](warehouse-and-distribution/standard-operating-procedures/picking-packing.md)
     * [Product Identification and Traceability](warehouse-and-distribution/standard-operating-procedures/product-identification-and-traceability.md)
     * [Product Returns](warehouse-and-distribution/standard-operating-procedures/product-returns.md)
